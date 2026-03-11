@@ -1,0 +1,53 @@
+# Dirsearch started Mon Mar  9 11:29:27 2026 as: C:\Users\dabao\Desktop\dirserch\dirsearch-0.4.3\dirsearch-0.4.3\dirsearch.py -u https://8.222.185.91:5553/ -e php,txt,html,zip --format plain
+
+301   169B   https://8.222.185.91:5553/api    -> REDIRECTS TO: https://8.222.185.91/api/
+404   232B   https://8.222.185.91:5553/api/
+404   232B   https://8.222.185.91:5553/api/2/explore/
+404   232B   https://8.222.185.91:5553/api/__swagger__/
+404   232B   https://8.222.185.91:5553/api/2/issue/createmeta
+404   232B   https://8.222.185.91:5553/api/api
+404   232B   https://8.222.185.91:5553/api/_swagger_/
+404   232B   https://8.222.185.91:5553/api/application.wadl
+404   232B   https://8.222.185.91:5553/api/api-docs
+404   232B   https://8.222.185.91:5553/api/apidocs/swagger.json
+404   232B   https://8.222.185.91:5553/api/batch
+404   232B   https://8.222.185.91:5553/api/cask/graphql
+404   232B   https://8.222.185.91:5553/api/config
+404   232B   https://8.222.185.91:5553/api/docs
+404   232B   https://8.222.185.91:5553/api/docs/
+404   232B   https://8.222.185.91:5553/api/error_log
+404   232B   https://8.222.185.91:5553/api/index.html
+404   232B   https://8.222.185.91:5553/api/jsonws
+404   232B   https://8.222.185.91:5553/api/package_search/v4/documentation
+404   232B   https://8.222.185.91:5553/api/jsonws/invoke
+404   232B   https://8.222.185.91:5553/api/login.json
+404   232B   https://8.222.185.91:5553/api/proxy
+404   232B   https://8.222.185.91:5553/api/spec/swagger.json
+404   232B   https://8.222.185.91:5553/api/profile
+404   232B   https://8.222.185.91:5553/api/swagger
+404   232B   https://8.222.185.91:5553/api/snapshots
+404   232B   https://8.222.185.91:5553/api/swagger-ui.html
+404   232B   https://8.222.185.91:5553/api/swagger/index.html
+404   232B   https://8.222.185.91:5553/api/swagger.yaml
+404   232B   https://8.222.185.91:5553/api/timelion/run
+404   232B   https://8.222.185.91:5553/api/swagger.yml
+404   232B   https://8.222.185.91:5553/api/swagger/ui/index
+404   232B   https://8.222.185.91:5553/api/swagger/swagger
+404   232B   https://8.222.185.91:5553/api/v1
+404   232B   https://8.222.185.91:5553/api/v1/
+404   232B   https://8.222.185.91:5553/api/v1/swagger.json
+404   232B   https://8.222.185.91:5553/api/apidocs
+404   232B   https://8.222.185.91:5553/api/v1/swagger.yaml
+404   232B   https://8.222.185.91:5553/api/v2/
+404   232B   https://8.222.185.91:5553/api/v2
+404   232B   https://8.222.185.91:5553/api/v2/helpdesk/discover
+404   232B   https://8.222.185.91:5553/api/v2/swagger.json
+404   232B   https://8.222.185.91:5553/api/vendor/phpunit/phpunit/phpunit
+404   232B   https://8.222.185.91:5553/api/v2/swagger.yaml
+404   232B   https://8.222.185.91:5553/api/whoami
+404   232B   https://8.222.185.91:5553/api/v4
+404   232B   https://8.222.185.91:5553/api/version
+404   232B   https://8.222.185.91:5553/api/swagger/static/index.html
+404   232B   https://8.222.185.91:5553/api/v3
+200   101KB  https://8.222.185.91:5553/api/swagger.json
+301   169B   https://8.222.185.91:5553/css    -> REDIRECTS TO: https://8.222.185.91/css/

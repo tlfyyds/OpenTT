@@ -1,9 +1,0 @@
-# Dirsearch started Mon Mar  9 14:49:20 2026 as: C:\Users\dabao\Desktop\dirserch\dirsearch-0.4.3\dirsearch-0.4.3\dirsearch.py -u https://8.222.185.91:5553/ -t 100 -i 200,301,302,403 --format plain
-
-301   169B   https://8.222.185.91:5553/js    -> REDIRECTS TO: https://8.222.185.91/js/
-301   169B   https://8.222.185.91:5553/api    -> REDIRECTS TO: https://8.222.185.91/api/
-200   101KB  https://8.222.185.91:5553/api/swagger.json
-301   169B   https://8.222.185.91:5553/css    -> REDIRECTS TO: https://8.222.185.91/css/
-200     4KB  https://8.222.185.91:5553/favicon.ico
-403   555B   https://8.222.185.91:5553/js/
-301   169B   https://8.222.185.91:5553/swaggerui    -> REDIRECTS TO: https://8.222.185.91/swaggerui/

@@ -5,7 +5,7 @@ from .base import MCPTool
 
 class DirsearchTool(MCPTool):
     def __init__(self):
-        self.script_path = r"C:\Users\dabao\Desktop\dirserch\dirsearch-0.4.3\dirsearch-0.4.3\dirsearch.py"
+        self.script_path = r""
         self.python_exe = "python"
         # 结果临时存储路径
         self.output_file = "scan_result.txt"
@@ -71,4 +71,5 @@ class DirsearchTool(MCPTool):
         except subprocess.TimeoutExpired:
             return "错误：扫描执行超时。"
         except Exception as e:
+
             return f"插件执行出错: {str(e)}"

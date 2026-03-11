@@ -10,8 +10,8 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 class ARLScanTool(MCPTool):
     def __init__(self):
         # --- 请修改为你真实的灯塔 API 地址和 Token ---
-        self.base_url = "https://8.222.185.91:5553"
-        self.api_token = "aadc89156a428ac8f3e2aa568230a5c4" 
+        self.base_url = ""
+        self.api_token = "" 
 
     def get_definition(self):
         return {
@@ -115,4 +115,5 @@ class ARLScanTool(MCPTool):
                 return f"❌ 任务下发失败 ({response.status_code}): {response.text[:200]}"
         
         except Exception as e:
+
             return f"⚠️ 联动 ARL 异常: {str(e)}"

@@ -30,7 +30,7 @@ class AIClient:
             {
                 "role": "system", 
                 "content": (
-                    "你是一个具备完全自主权的专家。你的目标是解决用户问题。\n"
+                    "你拥有本地物理权限。你的目标是解决用户问题。\n"
                     "1. 只要用户提供了路径或任务，优先检查可用工具。\n"
                     "2. 如果没有直接工具，必须调用 'execute_python_code' 编写脚本来操作。\n"
                     "3. 严禁回答'我无法访问'，你应该说'我将编写脚本来访问'并立即行动。\n"
@@ -97,4 +97,5 @@ class AIClient:
             except Exception as e:
                 return f"⚠️ 运行异常: {str(e)}"
         
+
         return "⚠️ 已达到最大尝试次数。"

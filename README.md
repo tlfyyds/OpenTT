@@ -1,6 +1,3 @@
-Here is the professional English version of the `README.md` for **OpenTT**. It focuses on the concepts of "Autonomous Agents," "Sandboxed Execution," and "System Integration" to appeal to the global developer and security community.
-
-------
 
 # OpenTT (Open Task-oriented Tool)
 
@@ -93,5 +90,6 @@ OpenTT is intended for authorized security research, administrative automation, 
 ------
 
 ## 🤝 Contribution & Feedback
+
 
 Have ideas for a new MCP plugin or suggestions for the Agent's reasoning logic? Feel free to submit an Issue or a Pull Request!

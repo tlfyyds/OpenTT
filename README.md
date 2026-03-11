@@ -1,6 +1,12 @@
 
 # OpenTT (Open Task-oriented Tool)
 
+<p align="center">
+  <a href="#english">English</a> | 
+  <a href="#中文">中文</a>
+</p>
+
+
 **OpenTT** is an advanced autonomous AI Desktop Agent built on the **ReAct (Reasoning and Acting)** architecture. It transcends the limitations of traditional chatbots by empowering Large Language Models (LLMs) to manipulate local systems, write and execute code on-the-fly, and handle complex, multi-step workflows.
 
 With OpenTT, you can transform **GPT-4, Grok, DeepSeek**, or local **Ollama** instances into a powerful "Code Interpreter" and "Task Executor" residing on your desktop.
@@ -93,3 +99,4 @@ OpenTT is intended for authorized security research, administrative automation, 
 
 
 Have ideas for a new MCP plugin or suggestions for the Agent's reasoning logic? Feel free to submit an Issue or a Pull Request!
+

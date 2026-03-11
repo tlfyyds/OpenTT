@@ -2,7 +2,7 @@
 # OpenTT (Open Task-oriented Tool)
 
 <p align="center">
-  <a href="#english">English</a> | 
+  <a href="https://github.com/tlfyyds/OpenTT/blob/main/README.md">English</a> | 
   <a href="#中文">中文</a>
 </p>
 
@@ -99,4 +99,5 @@ OpenTT is intended for authorized security research, administrative automation, 
 
 
 Have ideas for a new MCP plugin or suggestions for the Agent's reasoning logic? Feel free to submit an Issue or a Pull Request!
+
 

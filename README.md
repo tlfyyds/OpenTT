@@ -100,5 +100,9 @@ OpenTT is intended for authorized security research, administrative automation, 
 
 Have ideas for a new MCP plugin or suggestions for the Agent's reasoning logic? Feel free to submit an Issue or a Pull Request!
 
+<img width="505" height="347" alt="image" src="https://github.com/user-attachments/assets/385ff0c0-f5bc-44c5-93fb-9963eee8f517" />
+
+
+
 
 

@@ -1,4 +1,0 @@
-import os
-desktop_path = os.path.expanduser('~/Desktop')
-folders = [name for name in os.listdir(desktop_path) if os.path.isdir(os.path.join(desktop_path, name))]
-print(len(folders))
